@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 05 Sep 2024 09:41:02 at https://skrioeuieuwi.z13.web.core.windows.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://skrioeuieuwi.z13.web.core.windows.net/ -O1 "C:\My Web Sites\https___skrioeuieuwi.z13.web.core.windows.net_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:41:43	Error: 	"The requested content does not exist." (404) at link https://skrioeuieuwi.z13.web.core.windows.net/js/mdtnr.min.js (from https://skrioeuieuwi.z13.web.core.windows.net/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 42 seconds : 36 links scanned, 34 files written (1294509 bytes overall) [1035703 bytes received at 24659 bytes/sec], 357382 bytes transferred using HTTP compression in 4 files, ratio 23%
+(1 errors, 0 warnings, 0 messages)
